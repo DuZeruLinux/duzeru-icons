@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   version="1.0"
+   sodipodi:docname="weather-clear-symbolic.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#e7e7e7"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="18.818871"
+     inkscape:cx="2.0412869"
+     inkscape:cy="8.5882782"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1305"
+     inkscape:window-height="744"
+     inkscape:window-x="61"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="0,112"
+       id="guide2383" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="78.156291,0"
+       id="guide2389" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3672"
+       visible="true"
+       enabled="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="22.008699,4.1542523"
+       id="guide2950" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       d="M 6.625 0 C 6.625 0 6.4670989 2.7769489 5.75 3.125 C 5.0329011 3.4730511 2.8125 1.75 2.8125 1.75 C 2.8125 1.75 4.1163758 4.2873311 3.625 4.90625 C 3.1336242 5.5251689 0.375 5.1875 0.375 5.1875 C 0.375 5.1875 2.7009736 6.6605732 2.65625 7.5 C 2.6115261 8.3394268 2.4987861e-17 9.375 0 9.375 C 0 9.375 2.7502209 9.5596294 3.125 10.25 C 3.4997791 10.940371 1.75 13.1875 1.75 13.1875 C 1.75 13.1875 4.260603 11.883624 4.90625 12.375 C 5.551897 12.866376 5.1875 15.625 5.1875 15.625 C 5.1875 15.625 6.6338452 13.272296 7.5 13.34375 C 8.3661548 13.415202 9.375 16 9.375 16 C 9.375 16 9.4794449 13.223051 10.25 12.875 C 11.020555 12.526949 13.1875 14.25 13.1875 14.25 C 13.1875 14.25 11.856896 11.739397 12.375 11.09375 C 12.893104 10.448103 15.625 10.8125 15.625 10.8125 C 15.625 10.8125 13.299021 9.2325144 13.34375 8.5 C 13.388474 7.7674856 16 6.625 16 6.625 C 16 6.625 13.223051 6.4938271 12.875 5.75 C 12.526949 5.0061729 14.25 2.8125 14.25 2.8125 C 14.25 2.8125 11.659213 4.0629196 11.09375 3.625 C 10.528287 3.1870804 10.8125 0.375 10.8125 0.375 C 10.8125 0.375 9.2859706 2.7277018 8.5 2.65625 C 7.7140294 2.5847981 6.625 1.1242204e-18 6.625 0 z "
+       id="path4639" />
+  </g>
+</svg>

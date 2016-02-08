@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   version="1.0"
+   sodipodi:docname="weather-overcast-symbolic.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#e7e7e7"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.2235193"
+     inkscape:cx="-8.2189436"
+     inkscape:cy="4.9731172"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1305"
+     inkscape:window-height="744"
+     inkscape:window-x="61"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="0,112"
+       id="guide2383" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="78.156291,0"
+       id="guide2389" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3672"
+       visible="true"
+       enabled="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="22.008699,4.1542523"
+       id="guide2950" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="11.22532,22.008699"
+       id="guide2952" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 7 3 C 5.1231155 3 3.5562934 4.287639 3.125 6.03125 C 1.92405 6.2138 1 7.248066 1 8.5 C 1 9.880712 2.1192881 11 3.5 11 L 5.59375 11 C 5.995493 10.539452 6.5509168 10.218037 7.1875 10.125 C 7.597491 8.3604809 9.116699 7 11 7 C 12.501276 7 13.698239 7.9272757 14.375 9.15625 C 14.544751 9.1811825 14.713791 9.2313908 14.875 9.28125 C 14.957024 9.033772 15 8.7749966 15 8.5 C 15 7.291877 14.139208 6.295616 13 6.0625 C 13.00065 6.04154 13 6.02112 13 6 C 13 4.895431 12.104569 4 11 4 C 10.620084 4 10.271258 4.128564 9.96875 4.3125 C 9.2367617 3.502641 8.1776106 3 7 3 z "
+       id="path3888" />
+    <path
+       style="color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 11,8 c 1.301321,0 2.39699,0.841652 2.8125,2 0.06184,-0.0058 0.12415,0 0.1875,0 1.104569,0 2,0.895431 2,2 0,1.104569 -0.895431,2 -2,2 l -3,0 -3.5,0 C 6.671573,14 6,13.328427 6,12.5 6,11.671573 6.671573,11 7.5,11 L 8,11 C 8,9.343146 9.343146,8 11,8 z"
+       id="path3115"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

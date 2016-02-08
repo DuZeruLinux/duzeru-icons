@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   version="1.0"
+   sodipodi:docname="audio-input-microphone-symbolic.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#e7e7e7"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16.869941"
+     inkscape:cx="-8.8122352"
+     inkscape:cy="7.3977785"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1305"
+     inkscape:window-height="744"
+     inkscape:window-x="61"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3672"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;fill:#262626;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000000999999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 7.5,0 C 6.115,0 5,1.115 5,2.5 l 0,7 C 5,10.885 6.115,12 7.5,12 8.885,12 10,10.885 10,9.5 l 0,-7 C 10,1.115 8.885,0 7.5,0 z M 2,5 2,7 3,7 3,9.5 c 0,2.291387 1.770234,4.182371 4,4.4375 L 7,15 l -2,0 0,1 5,0 0,-1 -2,0 0,-1.0625 C 10.229766,13.682371 12,11.791387 12,9.5 l 0,-2.5 1,0 0,-2 -1,0 -0.96875,0 0,4.5 c 0,1.796611 -1.4028923,3.308986 -3.15625,3.5 l -0.75,0 C 5.3716423,12.808986 3.96875,11.296611 3.96875,9.5 l 0,-4.5 L 3,5 2,5 z"
+       id="rect3139"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

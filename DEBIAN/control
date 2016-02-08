@@ -1,0 +1,10 @@
+Package: duzeru-icons
+Source:
+Version: 1.0
+Section: icons
+Architecture: all
+Priority: optional
+Installed-Size: 65.300
+Maintainer: equipe duzeru (suporte@duzeru.org)
+Homepage: http://www.duzeru.org
+Description: DuZeru icones, um tema bonito e elegante para GNU/Linux
